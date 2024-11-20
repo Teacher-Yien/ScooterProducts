@@ -1,0 +1,258 @@
+{
+		"scooterProducts":[
+			{
+				"id": 1,
+				"name": "Libero X150",
+				"price": "590.00",
+				"originalPrice": "750.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-01-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-01-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-01-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-01-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-01-d.jpg"
+				],
+				"rating": 2
+			},
+			{
+				"id": 2,
+				"name": "Booster Brave F1",
+				"price": "4900.00",
+				"originalPrice": "990.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-02-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-02-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-02-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-02-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-02-d.jpg"
+				],
+				"rating": 3
+			},
+			{
+				"id": 3,
+				"name": "Libero X250",
+				"price": "590.00",
+				"originalPrice": "750.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-03-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-03-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-03-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-03-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-03-d.jpg"
+				],
+				"rating": 1
+			},
+			{
+				"id": 4,
+				"name": "Libero X350",
+				"price": "799.00",
+				"originalPrice": "876.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-d.jpg"
+				],
+				"rating": 2
+			},
+			{
+				"id": 5,
+				"name": "SilverPath MAX2",
+				"price": "590.00",
+				"originalPrice": "750.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-05-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-05-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-05-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-05-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-05-d.jpg"
+				],
+				"rating": 3
+			},
+			{
+				"id": 6,
+				"name": "North Booster 1",
+				"price": "590.00",
+				"originalPrice": "725.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-06-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-06-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-06-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-06-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-06-d.jpg"
+				],
+				"rating": 4
+			},
+			{
+				"id": 7,
+				"name": "North D Booster 2000",
+				"price": "590.00",
+				"originalPrice": "770.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-07-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-07-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-07-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-07-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-07-d.jpg"
+				],
+				"rating": 2
+			},
+			{
+				"id": 8,
+				"name": "SilverPath MAX1",
+				"price": "590.00",
+				"originalPrice": "750.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-08-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-08-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-08-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-08-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-08-d.jpg"
+				],
+				"rating": 0
+			},
+			{
+				"id": 9,
+				"name": "Practico PRO 500",
+				"price": "590.00",
+				"originalPrice": "699.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-09-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-09-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-09-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-09-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-09-d.jpg"
+				],
+				"rating": 1
+			},
+			{
+				"id": 10,
+				"name": "Practico S2 Exclusive",
+				"price": "600.00",
+				"originalPrice": "750.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-10-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-10-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-10-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-10-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-10-d.jpg"
+				],
+				"rating": 2
+			},
+			{
+				"id": 11,
+				"name": "Practico Z50 Exclusive",
+				"price": "590.00",
+				"originalPrice": "750.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-11-a-400x525.jpg",
+				"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-11-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-11-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-11-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-11-d.jpg"
+				],
+				"rating": 4
+			},
+			{
+			"id": 12,
+			"name": "SilverPath C1",
+			"price": "490.00",
+			"originalPrice": "750.00",
+			"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-12-a-400x525.jpg",
+			"images":[
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-12-a.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-12-b.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-12-c.jpg",
+					"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-12-d.jpg"
+			],
+			"rating": 3
+		}
+		],
+		"Accessories":[
+			{
+				"id": 13,
+				"name": "GoodLock J10",
+				"price": "90.00",
+				"originalPrice": "95.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-13-a-400x525.jpg",
+				"images":[
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-13-a.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-13-b.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-13-c.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-13-d.jpg"
+				],
+				"rating": 3
+			},
+			{
+				"id": 14,
+				"name": "Hammer Scooter Lock",
+				"price": "49.00",
+				"originalPrice": "75.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-14-a-400x525.jpg",
+				"images":[
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-14-a.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-14-b.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-14-c.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-14-d.jpg"
+				],
+				"rating": 2
+			},
+			{
+				"id": 15,
+				"name": "MAX3 Scooter Lock",
+				"price": "40.00",
+				"originalPrice": "90.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-15-a-400x525.jpg",
+				"images":[
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-15-a.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-15-b.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-15-c.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-15-d.jpg"
+				],
+				"rating": 3
+			},
+			{
+				"id": 16,
+				"name": "Booster Brave F1",
+				"price": "490.00",
+				"originalPrice": "750.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-16-a-400x525.jpg",
+				"images":[
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-16-a.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-16-b.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-16-c.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-16-d.jpg"
+				],
+				"rating": 1
+			},
+			{
+				"id": 17,
+				"name": "U-Lock Force",
+				"price": "50.00",
+				"originalPrice": "99.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-17-a-400x525.jpg",
+				"images":[
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-17-a.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-17-b.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-17-c.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-17-d.jpg"
+				],
+				"rating": 4
+			},
+			{
+				"id": 18,
+				"name": "U-Lock Force MAX",
+				"price": "75.00",
+				"originalPrice": "90.00",
+				"image": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-18-a-400x525.jpg",
+				"images":[
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-18-a.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-18-b.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-18-c.jpg",
+						"https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-18-d.jpg"
+				],
+				"rating": 1
+			}
+		]
+}
